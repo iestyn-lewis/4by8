@@ -1,19 +1,16 @@
 ## What is it?
 
-The CZ Patch Library (CZPL) is an essential companion for the Casio CZ series of synthesizers.  It contains:
+4by8 is a MIDI Looper inspired by guitar looper pedals and sequencers like the Alesis MMT-8.  
 
-* 2,186 presets.  Brasses, basses, pads, leads, percussion, drums, it's all in there.  
-* 10,000 memory slots to store the patches you create on the CZ!  No longer are you limited to saving only 16 or 32 patches.
-* 1,000 memory slots to store entire banks of patches.  Save and recall the entire memory of your synthesizer at once!  Perfect for live performance or building your own custom soundsets.
-* An arpeggiator with features from the Roland Jupiter-4 and Korg microKORG arpeggiators.  The Casio CZ series comes to life when you add an arpeggiator.  Latch, keysplit, external and internal trigger.  
+* 4 Loops, each with 8 tracks.  Record on any MIDI channel.  
+* Real-time quantization and gating of your input. Instant undo.  
+* Mute/Unmute tracks while playing, switch between recorded loops
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
-Connect the CZPL to your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, CZ-1 or CZ-230S synthesizer with 2 MIDI cables and power the CZPL via USB or a 9V power adapter (center positive).  
-
-You can then connect external gear to the CZPL and all MIDI messages will be passed through to the Casio.  This lets you use sequencers and external controllers without having to unplug and plug cables.
+Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V center positive power adapter.  Connect your controller to the 4by8 IN port, and your MIDI sound sources to the OUT port.
 
 <img src="images/v2connected.JPG" width="560" />
 
@@ -21,28 +18,22 @@ You can then connect external gear to the CZPL and all MIDI messages will be pas
 
 <a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">READ THE MANUAL HERE</a>
 
-## What presets are included?
+## Detailed Specs
 
-This is a demonstration of an earlier version, with 1000 patches.  This model contains 1186 more than are shown here!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HUhO5O9OCFc?ecver=1" frameborder="0" allowfullscreen></iframe>
-
-* Basses
-* Brasses
-* Drums
-* FX
-* Pianos/EPianos
-* Organs
-* Strings
-* Synths/Leads/Pads
-* Tuned Percussion
-* Voices
-* Winds
+* 800 Event Capacity
+* 4 Switchable Loops
+* 8 Tracks per Loop, individually Mutable
+* 2-8 Measures Per Loop
+* 2-7 Beats Per Measure
+* Triplet or 16th Note Modes
+* Quantize and Gate to 1/4, 1/8, 1/16, 1/32 notes
+* Simple 2 Button Operation
 
 <a target="_blank" href="images/CZPL Presets.pdf">VIEW THE FULL LIST HERE</a>
 
 ## How much is it?
 
- * Price is $129 USD.
+ * Price is $84 USD.
  * Shipping is $10 to the US.  
  * Shipping is $35 outside the US, as long as USPS Priority Mail delivers to your location.  I must declare the full price of the item on the customs form, please do not ask me to mark it as "gift", etc.
  
@@ -89,15 +80,9 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 3.02.  To determine your device's firmware version, unplug your CZPL and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you do not see a firmware version displayed, you have version 2.0 firmware.  If you would like to upgrade your firmware, please contact me for directions.
+The latest firmware version is 1.00.  To determine your device's firmware version, unplug your 4by8 and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you would like to upgrade your firmware, please contact me for directions.
 
 ### Firmware Version History
 
-* 3.02 - Expanded arp sequence to 64 steps, added Operational Memory bank save/load for CZ-1, added MIDI Bank/Program Change.
-* 3.01 - Major version release with CZ-1 support, bank storage and arpeggiator.  <a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">(v3.01 manual)</a>
-
-* 2.03 - Minor fix (random patch display was not updated).
-* 2.02 - Added CZ-230S mode.  Fixed MIDI IN latency problem.
-* 2.01 - Added manual random patch selection.
-* 2.00 - Initial version.
+* 1.00 - Initial version.
 
