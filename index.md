@@ -2,7 +2,8 @@
 
 4by8 is a MIDI Looper inspired by guitar looper pedals and sequencers like the Alesis MMT-8.  
 
-* 4 Loops, each with 8 tracks.  Record on any MIDI channel.  
+* 4 Loops, each with 8 tracks.  Record on any MIDI channel. 
+* One click to start recording.  One click to save.  One click to overdub.
 * Real-time quantization and gating of your input. Instant undo.  
 * Mute/Unmute tracks while playing, switch between recorded loops
 
@@ -54,21 +55,11 @@ Scroll down to order via PayPal or credit card.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="3SDW49N6AV32C">
+<input type="hidden" name="hosted_button_id" value="SS9SLN6CBE4R8">
 <table>
 <tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
-	<option value="No Power Adapter">US Shipping - $129.00 + $10 USD</option>
-	<!-- <option value="With Power Adapter">With Power Adapter $134.00 USD</option> -->
-	<option value="No Power Adapter - Int'l Shipping">International Shipping - $129.00 + $35 USD</option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Your CZ Model:">Your Primary CZ Model:</td></tr><tr><td><select name="os1">
-	<option value="-- Select Model --">-- Select Model -- </option>
-	<option value="CZ-101">CZ-101 </option>
-	<option value="CZ-1000">CZ-1000 </option>
-	<option value="CZ-3000">CZ-3000 </option>
-	<option value="CZ-5000">CZ-5000 </option>
-	<option value="CZ-1">CZ-1</option>
-	<option value="CZ-230S">CZ-230S </option>
+	<option value="US Shipping">US Shipping $94.00 USD</option>
+	<option value="International Shipping">International Shipping $119.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
