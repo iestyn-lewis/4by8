@@ -23,10 +23,10 @@ Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V 
 
 * 400 Note Capacity
 * 4 Switchable Loops
-* 8 Tracks per Loop, individually Mutable
+* 8 Tracks per Loop, individually mutable
 * 2-8 Measures Per Loop
 * 2-7 Beats Per Measure
-* Triplet or 16th Note Modes
+* Triplet and 16th Note Modes
 * Quantize and Gate to 1/4, 1/8, 1/16, 1/32 notes
 * Simple 2 Button Operation
 
@@ -48,7 +48,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/4by8_front.jpg" width="560">
 <img src="images/4by8_back.jpg" width="560" />
 
-### CURRENT STATUS:  1 available for pre-order, shipping on or before 3/14/2018.
+### CURRENT STATUS:  5 in stock, shipping in 1-2 business days.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
