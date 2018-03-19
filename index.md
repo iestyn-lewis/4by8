@@ -13,7 +13,7 @@
 
 Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V center positive power adapter.  Connect your controller to the 4by8 IN port, and your MIDI sound sources to the OUT port.
 
-<img src="images/4by8_connected.JPG" width="560" />
+<img src="images/4by8_connected.jpg" width="560" />
 
 ## How do I use it?
 
@@ -45,8 +45,8 @@ Scroll down to order via PayPal or credit card.
 * The enclosure is 3D printed. 3D printed objects have a textured appearance, please see pictures. 
 * Refunds offered with evidence that there is an electronic fault with the product.  
 
-<img src="images/4by8_front.JPG" width="560">
-<img src="images/4by8_back.JPG" width="560" />
+<img src="images/4by8_front.jpg" width="560">
+<img src="images/4by8_back.jpg" width="560" />
 
 ### CURRENT STATUS:  1 available for pre-order, shipping on or before 3/14/2018.
 
