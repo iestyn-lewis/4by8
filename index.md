@@ -17,7 +17,7 @@ Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V 
 
 ## How do I use it?
 
-<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">READ THE MANUAL HERE</a>
+<a target="_blank" href="images/4by8 Manual FV 1.00.pdf">READ THE MANUAL HERE</a>
 
 ## Detailed Specs
 
