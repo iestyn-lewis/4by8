@@ -13,7 +13,7 @@
 
 Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V center positive power adapter.  Connect your controller to the 4by8 IN port, and your MIDI sound sources to the OUT port.
 
-<img src="images/v2connected.JPG" width="560" />
+<img src="images/4by8_connected.JPG" width="560" />
 
 ## How do I use it?
 
@@ -21,7 +21,7 @@ Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V 
 
 ## Detailed Specs
 
-* 800 Event Capacity
+* 400 Note Capacity
 * 4 Switchable Loops
 * 8 Tracks per Loop, individually Mutable
 * 2-8 Measures Per Loop
@@ -29,8 +29,6 @@ Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V 
 * Triplet or 16th Note Modes
 * Quantize and Gate to 1/4, 1/8, 1/16, 1/32 notes
 * Simple 2 Button Operation
-
-<a target="_blank" href="images/CZPL Presets.pdf">VIEW THE FULL LIST HERE</a>
 
 ## How much is it?
 
@@ -47,9 +45,8 @@ Scroll down to order via PayPal or credit card.
 * The enclosure is 3D printed. 3D printed objects have a textured appearance, please see pictures. 
 * Refunds offered with evidence that there is an electronic fault with the product.  
 
-<img src="images/v2front.JPG" width="560">
-<img src="images/v2back.JPG" width="560" />
-<img src="images/v2midi.JPG" width="560" />
+<img src="images/4by8_front.JPG" width="560">
+<img src="images/4by8_back.JPG" width="560" />
 
 ### CURRENT STATUS:  1 available for pre-order, shipping on or before 3/14/2018.
 
