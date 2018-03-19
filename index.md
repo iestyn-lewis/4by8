@@ -7,7 +7,7 @@
 * Real-time quantization and gating of your input. Instant undo.  
 * Mute/Unmute tracks while playing, switch between recorded loops
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="100%"  src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
