@@ -5,7 +5,10 @@
 * 4 Loops, each with 8 tracks.  Record on any MIDI channel. 
 * One click to start recording.  One click to save.  One click to overdub.
 * Real-time quantization and gating of your input. Instant undo.  
+* Sync to external MIDI clock, or send MIDI clock sync.
 * Mute/Unmute tracks while playing, switch between recorded loops
+
+<iframe width="760" height="520" src="https://www.youtube.com/embed/D32h0h87aZI?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 <iframe width="760" height="520" src="https://www.youtube.com/embed/6obFfSdbHx4?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
@@ -17,7 +20,7 @@ Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V 
 
 ## How do I use it?
 
-<a target="_blank" href="images/4by8 Manual FV 1.00.pdf">READ THE MANUAL HERE</a>
+<a target="_blank" href="images/4by8 Manual FV 1.01.pdf">READ THE MANUAL HERE</a>
 
 ## Detailed Specs
 
@@ -28,6 +31,7 @@ Power the 4by8 with a USB power adapter and the included USB cable, or use a 9V 
 * 2-7 Beats Per Measure
 * Triplet and 16th Note Modes
 * Quantize and Gate to 1/4, 1/8, 1/16, 1/32 notes
+* Sync to MIDI Start/Stop/Clock 
 * Simple 2 Button Operation
 
 ## How much is it?
@@ -48,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/4by8_front.jpg" width="560">
 <img src="images/4by8_back.jpg" width="560" />
 
-### CURRENT STATUS:  PRE-ORDER: Shipping on or before April 11.
+### CURRENT STATUS:  2 in stock, shipping now.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
