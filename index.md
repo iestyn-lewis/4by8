@@ -72,9 +72,10 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 1.00.  To determine your device's firmware version, unplug your 4by8 and plug it back in again.  Immediately after the 4by8 "splash" appears, your firmware version will be displayed.  If you would like to upgrade your firmware, please contact me for directions.
+The latest firmware version is 1.01.  To determine your device's firmware version, unplug your 4by8 and plug it back in again.  Immediately after the 4by8 "splash" appears, your firmware version will be displayed.  If you would like to upgrade your firmware, please contact me for directions.
 
 ### Firmware Version History
 
 * 1.00 - Initial version.
+* 1.01 - Added External MIDI Clock Sync.  Minor tweaks to recording interface.
 
