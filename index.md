@@ -52,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/4by8_front.jpg" width="560">
 <img src="images/4by8_back.jpg" width="560" />
 
-### CURRENT STATUS:  1 in stock, shipping now.
+### CURRENT STATUS:  Out of Stock. Pre-order for shipping on or before September 27, 2018.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
