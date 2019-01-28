@@ -52,7 +52,7 @@ Scroll down to order via PayPal or credit card.
 <img src="images/4by8_front.jpg" width="560">
 <img src="images/4by8_back.jpg" width="560" />
 
-### CURRENT STATUS:  IN STOCK, shipping in 1-2 business days.
+### CURRENT STATUS:  OUT OF STOCK.  Pre-order now for shipping on or before February 11, 2019.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
